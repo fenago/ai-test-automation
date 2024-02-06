@@ -23,7 +23,7 @@ blog narration, multilingual audio production, and real-time streaming.
 
 # Lab Solution
 
-Solution notebook for this lab can be found at `~/work/nlp-generative-ai-bootcamp/Lab04/openai_audio_api.ipynb`
+Solution notebook for this lab can be found at `~/work/ai-test-automation/Labs/openai_audio_api.ipynb`
 
 
 # Initial Setup 

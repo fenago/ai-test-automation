@@ -37,7 +37,7 @@ achieve.
 
 # Lab Solution
 
-Solution notebook for this lab can be found at `~/work/nlp-generative-ai-bootcamp/Lab04/openai_gpt4_vision.ipynb`
+Solution notebook for this lab can be found at `~/work/ai-test-automation/Labs/openai_gpt4_vision.ipynb`
 
 # Using GPT-4V: From URLs to Local Images
 
@@ -75,7 +75,7 @@ response = client.chat.completions.create(
                 {
                     "type": "image_url",
                     "image_url": {
-                        "url": "https://raw.githubusercontent.com/fenago/nlp-generative-ai-bootcamp/main/IQR.png",
+                        "url": "https://raw.githubusercontent.com/fenago/ai-test-automation/main/IQR.png",
                     },
                 },
             ],

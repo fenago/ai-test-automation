@@ -3,20 +3,6 @@
 # Lab: Creating Assistants Using OpenAI APIs
 
 
-# Unleashing the Power of AI in Learning Environments 
-
-In the swiftly advancing realm of education and corporate training,
-Artificial Intelligence (AI) emerges as a transformative force. With its
-unparalleled ability to process and analyze vast amounts of data, AI is
-reshaping how knowledge is delivered and absorbed. This article delves
-into the integration of OpenAI's advanced AI technologies in educational
-settings, illustrating how educators and trainers can create AI
-Assistants. These Assistants are not mere digital tools but intelligent
-entities capable of enhancing learning experiences through personalized
-and interactive engagement. We explore how AI can be a powerful ally in
-the journey of knowledge impartation, making learning more adaptive,
-engaging, and effective.
-
 # The AI Advantage in Education and Training 
 
 AI's integration into educational tools represents more than just a
@@ -32,13 +18,13 @@ learning environment, bridging gaps in traditional educational methods.
 
 # Lab Solution
 
-Solution notebook for this lab can be found at `~/work/nlp-generative-ai-bootcamp/Lab05/creating_assistants.ipynb`
+Solution notebook for this lab can be found at `~/work/ai-test-automation/Labs/creating_assistants.ipynb`
 
 
 ## Code Breakdown: Environment Setup 
 
 First, upload your documents. Sample book has been provided already in following path:
-`~/work/nlp-generative-ai-bootcamp/Lab05/content/drlee/Data_Analytics_Final_v7.docx`
+`~/work/ai-test-automation/Labs/content/drlee/Data_Analytics_Final_v7.docx`
 
 ![](./images/1_yzawjS9ufJjiubwM5m_AwA.png)
 

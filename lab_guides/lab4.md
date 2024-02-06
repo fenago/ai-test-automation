@@ -10,7 +10,7 @@ into how we can integrate DALL·E's capabilities into our Python code.
 
 # Lab Solution
 
-Solution notebook for this lab can be found at `~/work/nlp-generative-ai-bootcamp/Lab05/creating-images-with-dall-e.ipynb`
+Solution notebook for this lab can be found at `~/work/ai-test-automation/Labs/creating-images-with-dall-e.ipynb`
 
 # Setting Up the OpenAI API
 
