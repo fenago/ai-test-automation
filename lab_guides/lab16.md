@@ -1,5 +1,5 @@
 
-Lab: ChatGPT and Bard for Test Autoamtion
+Lab: ChatGPT and Bard for Test Automation
 -----------------------------------------
 
 
